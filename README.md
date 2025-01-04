@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I’m MMESOMA ONUEGBU FAVOUR
 
-A motivated Frontend Developer with a strong passion to building modern, responsive, and user-friendly websites. With experience in building visually appealing, and functional interfaces, I enjoy turning complex problems into simple solutions.
+A Frontend Developer with a strong passion to building modern, responsive, and user-friendly websites. With experience in building visually appealing, and functional interfaces, I enjoy turning complex problems into simple solutions.
 I am committed to continuous learning and professional growth. My goal is to collaborate with teams, bring innovative ideas to life, and increase my skills in web devwlopment .
  
 ## 🚀 Tech Skills
